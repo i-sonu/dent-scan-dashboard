@@ -1,4 +1,6 @@
-# Aerosepct — Full Stack Setup
+# Aerosepct - Full Stack Setup
+
+<img width="1851" height="1058" alt="dashboard" src="https://github.com/user-attachments/assets/53e4db6c-23e2-496a-9b87-ca9528cffb4a" />
 
 ## Architecture
 
@@ -33,14 +35,14 @@
 
 ## Running the Project
 
-### Terminal 1 — Python Backend
+### Terminal 1 - Python Backend
 ```bash
 cd aerosepct/backend
 pip install -r requirements.txt
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-### Terminal 2 — Next.js Frontend
+### Terminal 2 - Next.js Frontend
 ```bash
 cd aerosepct
 npm install
