@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@aerosepct.io",
+    "username": "admin",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "Admin",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]
